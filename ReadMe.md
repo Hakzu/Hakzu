@@ -64,7 +64,7 @@ const hakzu = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://count.getloli.com/get/@hakzu?theme=rule34" alt="Visitor Count" />
+        <img src="https://profile-counter.glitch.me/hakzu/count.svg" alt="Visitor Count" />
         <br>
         <b>Unique Visitors</b>
       </td>

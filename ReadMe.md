@@ -15,19 +15,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://komarev.com/ghpvc/?username=hakzu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
         <br><b>👁️ Profile Views</b>
       </td>
-      <td align="center" width="25%">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&title=Website+Hits&edge_flat=false&style=for-the-badge" alt="Website Hits" />
-        <br><b>🌐 Website Traffic</b>
-      </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://img.shields.io/github/followers/hakzu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
         <br><b>👥 Followers</b>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://img.shields.io/github/stars/hakzu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" />
         <br><b>⭐ Total Stars</b>
       </td>
@@ -138,21 +134,17 @@ const hakzu: Developer = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hakzu&theme=tokyonight" alt="Most Commit Language" />
         <br><b>📝 Most Commits</b>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hakzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
         <br><b>⏰ Peak Hours</b>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hakzu&theme=tokyonight" alt="GitHub Stats Summary" />
         <br><b>📊 Quick Stats</b>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hakzu&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
-        <br><b>⌚ Time Tracking</b>
       </td>
     </tr>
   </table>
@@ -325,6 +317,4 @@ const hakzu: Developer = {
 <div align="center">
   <h3>🌟 Thanks for visiting! Star ⭐ my repositories if you find them useful!</h3>
   <p><b>Made with ❤️, lots of ☕, and endless curiosity for iOS development</b></p>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.hakzu&left_color=crimson&right_color=blue&left_text=Total%20Profile%20Visitors" alt="Visitor Badge" />
 </div>

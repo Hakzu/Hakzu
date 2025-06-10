@@ -5,12 +5,24 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakzu&label=Profile%20views&color=0e75b6&style=flat" alt="hakzu" />
-  <img src="https://img.shields.io/github/followers/hakzu?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=hakzu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhakzu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Hits&edge_flat=false" alt="GitHub Hits" />
+  <img src="https://img.shields.io/github/followers/hakzu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
 </p>
+
+<div align="center">
+  <h3>🌐 Website Visitor Tracking</h3>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=Website+Visits&edge_flat=false" alt="Website Visits" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.hakzu&left_color=crimson&right_color=blue&left_text=Total%20Visitors" alt="Total Visitors" />
+</div>
 
 ## 🌐 Portfolio Website
 **🔗 [Hakzu's IPA Library](https://hakzu.netlify.app)** - *Curated iOS App Collection*
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=Live+Site+Visits&edge_flat=false&style=for-the-badge" alt="Website Visits" />
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhakzu.netlify.app&style=for-the-badge" alt="Website Status" />
+</div>
 
 ---
 
@@ -46,7 +58,45 @@ const hakzu = {
 
 ---
 
-## 🔥 GitHub Stats & Streak
+## 📊 Visitor Analytics & Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://count.getloli.com/get/@hakzu?theme=rule34" alt="Visitor Count" />
+        <br>
+        <b>Unique Visitors</b>
+      </td>
+      <td align="center">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhakzu%2Fhakzu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Detailed" />
+        <br>
+        <b>Profile Views</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=IPA+Library+Visits&edge_flat=false" alt="Website Visits" />
+        <br>
+        <b>Website Traffic</b>
+      </td>
+      <td align="center">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.projects&left_color=orange&right_color=green&left_text=Project%20Views" alt="Project Views" />
+        <br>
+        <b>Project Engagement</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h4>📈 Real-time Analytics Dashboard</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakzu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Visitor Streak" />
+</div>
+
+---
+
+## 🔥 GitHub Stats & Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />

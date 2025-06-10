@@ -1,258 +1,330 @@
-# 🚀 Hey there! I'm Hakzu
+# 🌟 Welcome to Hakzu's Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=iOS+Developer;IPA+Library+Curator;Mobile+Security+Enthusiast;App+Collection+Expert" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HAKZU&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakzu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhakzu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Hits&edge_flat=false" alt="GitHub Hits" />
-  <img src="https://img.shields.io/github/followers/hakzu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
-</p>
-
 <div align="center">
-  <h3>🌐 Website Visitor Tracking</h3>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=Website+Visits&edge_flat=false" alt="Website Visits" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.hakzu&left_color=crimson&right_color=blue&left_text=Total%20Visitors" alt="Total Visitors" />
-</div>
-
-## 🌐 Portfolio Website
-**🔗 [Hakzu's IPA Library](https://hakzu.netlify.app)** - *Curated iOS App Collection*
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=Live+Site+Visits&edge_flat=false&style=for-the-badge" alt="Website Visits" />
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhakzu.netlify.app&style=for-the-badge" alt="Website Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=iOS+Developer+%F0%9F%93%B1;IPA+Library+Curator+%F0%9F%93%9A;Mobile+Security+Expert+%F0%9F%94%92;App+Collection+Specialist+%E2%9C%A8" alt="Typing Animation" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```typescript
-const hakzu = {
-    pronouns: "he/him",
-    location: "Earth 🌍",
-    specialization: "iOS Development & App Curation",
-    code: ["Swift", "Objective-C", "JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["iOS dev", "IPA libraries", "app curation", "mobile security"],
-    technologies: {
-        iOS: {
-            languages: ["Swift", "Objective-C"],
-            frameworks: ["UIKit", "SwiftUI", "Core Data", "Combine"],
-            tools: ["Xcode", "TestFlight", "Instruments"]
-        },
-        web: {
-            frontEnd: ["React", "Vue", "HTML5", "CSS3"],
-            backEnd: ["Node.js", "Express", "Python"],
-            hosting: ["Netlify", "Vercel", "GitHub Pages"]
-        },
-        mobile: ["iOS Native", "React Native", "Flutter"],
-        databases: ["Core Data", "SQLite", "MongoDB", "Firebase"],
-        tools: ["Git", "VS Code", "Xcode", "Postman"]
-    },
-    currentProject: "Hakzu's IPA Library - iOS App Collection Platform",
-    expertise: ["iOS App Development", "IPA Management", "Mobile Security"],
-    funFact: "I collect and curate iOS apps like some people collect stamps! 📱"
-};
-```
-
----
-
-## 📊 Visitor Analytics & Metrics
+## 🎯 **Quick Stats Dashboard**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://profile-counter.glitch.me/hakzu/count.svg" alt="Visitor Count" />
-        <br>
-        <b>Unique Visitors</b>
+      <td align="center" width="25%">
+        <img src="https://komarev.com/ghpvc/?username=hakzu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+        <br><b>👁️ Profile Views</b>
       </td>
-      <td align="center">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhakzu%2Fhakzu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Detailed" />
-        <br>
-        <b>Profile Views</b>
+      <td align="center" width="25%">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&title=Website+Hits&edge_flat=false&style=for-the-badge" alt="Website Hits" />
+        <br><b>🌐 Website Traffic</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhakzu.netlify.app&count_bg=%23FF6B6B&title_bg=%23555555&icon=netlify.svg&icon_color=%23E7E7E7&title=IPA+Library+Visits&edge_flat=false" alt="Website Visits" />
-        <br>
-        <b>Website Traffic</b>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/github/followers/hakzu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+        <br><b>👥 Followers</b>
       </td>
-      <td align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.projects&left_color=orange&right_color=green&left_text=Project%20Views" alt="Project Views" />
-        <br>
-        <b>Project Engagement</b>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/github/stars/hakzu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" />
+        <br><b>⭐ Total Stars</b>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+## 🚀 **Portfolio Showcase**
+
 <div align="center">
-  <h4>📈 Real-time Analytics Dashboard</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakzu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Visitor Streak" />
+  <a href="https://hakzu.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_Hakzu's_IPA_Library-Visit_Now-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fhakzu.netlify.app&style=for-the-badge&label=STATUS" alt="Website Status" />
+</div>
+
+<div align="center">
+  <b>🎨 Curated iOS App Collection Platform</b><br>
+  <i>Your gateway to premium iOS applications and IPA libraries</i>
 </div>
 
 ---
 
-## 🔥 GitHub Stats & Performance
+## 👨‍💻 **Developer Profile**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hakzu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+  <table>
+    <tr>
+      <td width="50%">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hakzu&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  languages: string[];
+  specialties: string[];
+  currentProject: string;
+  hobbies: string[];
+}
+
+const hakzu: Developer = {
+  name: "Hakzu",
+  role: [
+    "iOS Developer",
+    "IPA Curator", 
+    "Mobile Security Specialist"
+  ],
+  location: "Digital Realm 🌐",
+  languages: [
+    "Swift", "Objective-C", 
+    "JavaScript", "TypeScript",
+    "Python", "Java"
+  ],
+  specialties: [
+    "iOS App Development",
+    "IPA Library Management", 
+    "Mobile Application Security",
+    "App Store Optimization"
+  ],
+  currentProject: "Hakzu's IPA Library Platform",
+  hobbies: [
+    "App Collection", "Code Review",
+    "Mobile Security Research"
+  ]
+};
+```
+
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=hakzu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Analytics" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 **Advanced GitHub Analytics**
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakzu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakzu&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
----
+### 🏆 **Repository Statistics & Language Distribution**
 
-## 📊 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakzu&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakzu&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=400&custom_title=🔥%20Most%20Used%20Languages" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hakzu&theme=tokyonight&exclude=html,css" alt="Repos per Language" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 💻 Tech Stack
-
-### Languages & iOS Development
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### iOS & Mobile Development
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
+### 📈 **All Repositories Language Analysis**
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakzu&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hakzu&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hakzu&theme=tokyonight" alt="Most Commit Language" />
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hakzu&theme=tokyonight" alt="Most Commit Language" />
+        <br><b>📝 Most Commits</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hakzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+        <br><b>⏰ Peak Hours</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hakzu&theme=tokyonight" alt="GitHub Stats Summary" />
+        <br><b>📊 Quick Stats</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hakzu&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+        <br><b>⌚ Time Tracking</b>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 🛠️ **Technology Arsenal**
+
+### 📱 **iOS & Mobile Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,xcode,ios,apple,objective-c&theme=dark" alt="iOS Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="TestFlight" />
+</div>
+
+### 💻 **Web Technologies**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python&theme=dark" alt="Web Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+</div>
+
+### 🗄️ **Databases & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,netlify,vercel&theme=dark" alt="Database Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</div>
+
+### 🔧 **Development Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" alt="Tools Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hakzu&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hakzu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hakzu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🎯 Current Projects & Goals
+## 📊 **Repository Analytics & Auto Language Detection**
 
-- 🔭 I'm currently working on **Hakzu's IPA Library** - *A curated iOS app collection platform*
-- 📱 I'm passionate about **iOS Development & App Curation**
-- 🌱 I'm currently learning **Advanced iOS Security & App Distribution**
-- 👯 I'm looking to collaborate on **iOS Projects & Open Source Libraries**
-- 🤔 I'm looking for help with **iOS App Store Optimization**
-- 💬 Ask me about **Swift, iOS Development, IPA Management, Mobile Security**
-- ⚡ Fun fact: **I have probably tested more iOS apps than the average App Store reviewer! 📱**
+### 🔍 **All Repositories Overview**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakzu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&custom_title=📈%20Complete%20Repository%20Analytics" width="49%" alt="All Repo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakzu&layout=donut&theme=tokyonight&hide_border=true&langs_count=15&custom_title=🎯%20Language%20Distribution" width="49%" alt="Language Donut" />
+</div>
+
+### 🚀 **Featured Repositories**
+<div align="center">
+  <a href="https://github.com/hakzu?tab=repositories&sort=stargazers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=ios-ipa-library&theme=tokyonight&hide_border=true" alt="IPA Library" />
+  </a>
+  <a href="https://github.com/hakzu?tab=repositories&sort=updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=mobile-security-tools&theme=tokyonight&hide_border=true" alt="Security Tools" />
+  </a>
+</div>
 
 ---
 
-## 🌟 Featured Repositories
+## 📈 **Contribution Heatmap**
 
 <div align="center">
-  <a href="https://github.com/hakzu/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=awesome-project&theme=tokyonight" alt="Awesome Project" />
-  </a>
-  <a href="https://github.com/hakzu/cool-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=cool-app&theme=tokyonight" alt="Cool App" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakzu&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=📊%20Annual%20Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 **Current Focus & Goals**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" />
+        <br><b>iOS Development</b>
+        <br><i>Building native apps</i>
+      </td>
+      <td align="center" width="25%">
+        <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Security" />
+        <br><b>Mobile Security</b>
+        <br><i>App analysis & protection</i>
+      </td>
+      <td align="center" width="25%">
+        <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Web" />
+        <br><b>Web Platform</b>
+        <br><i>IPA Library expansion</i>
+      </td>
+      <td align="center" width="25%">
+        <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Open Source" />
+        <br><b>Open Source</b>
+        <br><i>Community contributions</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💡 **What I'm Working On**
+- 🔭 **Current Project**: Expanding Hakzu's IPA Library with advanced features
+- 🌱 **Learning**: Advanced iOS Security & App Store Connect APIs
+- 👯 **Collaborating**: Open source iOS development tools
+- 🤔 **Exploring**: Mobile app reverse engineering techniques
+- 💬 **Ask me about**: Swift, iOS development, IPA management, mobile security
+- ⚡ **Fun fact**: I've probably tested more iOS apps than most App Store reviewers! 📱
+
+---
+
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
   <a href="https://hakzu.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:hakzu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/🌟_Portfolio-Visit_My_IPA_Library-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-## 💝 Support My Work
+## 💎 **Support My Work**
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_My_Projects-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://ko-fi.com/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    <img src="https://img.shields.io/badge/💖_Ko--fi-Show_Your_Love-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
 
 ---
+
+## 🐍 **Activity Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
+---
+
+## 💭 **Random Dev Wisdom**
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ Star my repositories if you find them useful!</h3>
-  <p>Made with ❤️ and lots of ☕</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <h3>🌟 Thanks for visiting! Star ⭐ my repositories if you find them useful!</h3>
+  <p><b>Made with ❤️, lots of ☕, and endless curiosity for iOS development</b></p>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakzu.hakzu&left_color=crimson&right_color=blue&left_text=Total%20Profile%20Visitors" alt="Visitor Badge" />
 </div>

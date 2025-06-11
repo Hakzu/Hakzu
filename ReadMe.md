@@ -212,16 +212,6 @@ const hakzu: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakzu&layout=donut&theme=tokyonight&hide_border=true&langs_count=15&custom_title=🎯%20Language%20Distribution" width="49%" alt="Language Donut" />
 </div>
 
-### 🚀 **Featured Repositories**
-<div align="center">
-  <a href="https://github.com/hakzu?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=ios-ipa-library&theme=tokyonight&hide_border=true" alt="IPA Library" />
-  </a>
-  <a href="https://github.com/hakzu?tab=repositories&sort=updated">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakzu&repo=mobile-security-tools&theme=tokyonight&hide_border=true" alt="Security Tools" />
-  </a>
-</div>
-
 ---
 
 ## 📈 **Contribution Heatmap**
@@ -276,19 +266,6 @@ const hakzu: Developer = {
 <div align="center">
   <a href="https://hakzu.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌟_Portfolio-Visit_My_IPA_Library-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-## 💎 **Support My Work**
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_My_Projects-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/hakzu" target="_blank">
-    <img src="https://img.shields.io/badge/💖_Ko--fi-Show_Your_Love-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
 
